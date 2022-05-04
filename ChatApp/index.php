@@ -32,7 +32,7 @@
           <i class="fas fa-eye"></i>
         </div>
         <div class="field image">
-          <label>Selecciona una imagen de perfil</label>
+          <label>Selecciona una imagen de perfil (opcional)</label>
           <input type="file" name="image" accept="image/x-png,image/gif,image/jpeg,image/jpg" required>
         </div>
         <div class="field button">
