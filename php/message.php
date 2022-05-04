@@ -19,6 +19,6 @@
             echo "Ingresa un correo válido!";
         }
     } else {
-        echo "Es obligatorio ingresar los campos!";
+        echo "Es obligatorio ingresar todos los campos! (Web opcional)";
     }
 ?>
