@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 .cookieWrap {
   position: fixed;
   bottom: 30px;
-  left: 720px;
+  left: 20px;
   z-index: 996;
   max-width: 365px;
   background: #DEDEDC;
